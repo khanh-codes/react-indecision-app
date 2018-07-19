@@ -1,6 +1,6 @@
 # Indecision App
 
-## Simple React Application based on Udemy React Course
+**Simple React Application based on Udemy React Course**
 
 [Link to Course](https://www.udemy.com/react-2nd-edition/)
 
