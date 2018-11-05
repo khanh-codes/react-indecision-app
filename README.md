@@ -4,7 +4,7 @@
 
 [Link to Course](https://www.udemy.com/react-2nd-edition/)
 
-[Link to App Demo](https://khanh-indecision.surge.sh/)
+[Link to App Demo](indecision.khanhcodes.com)
 
 # Topics and Technologies
 
